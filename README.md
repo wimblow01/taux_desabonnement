@@ -7,4 +7,4 @@ Comme on a eu ensuite la consigne de passer par un réseau de neurone, j'ai repr
 * les deux premières couches la fonction "relu"
 * la couche de sortie "sigmoid"
 
-Pour avoir les meilleurs résutats, j'ai ensuite joué sur 
+Pour avoir les meilleurs résutats, j'ai ensuite joué sur le batch_size et sur les epochs. Je n'ai pas réussi à dépasser 84,4% du coup j'ai gardé les valeurs correspondantes.
