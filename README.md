@@ -11,3 +11,5 @@ Comme on peut le constater, le modèle arrive assez bien à classer les abonnés
 Cette dernière partie varie énormément en fonction du paramétrage. Néanmoins, lorsque j'arrive à avoir un score 'correct' pour ce dernier, cela se répercute sur la classe 0 comme on peut le constater sur l'image suivante. 
 
 ![rmsprop.PNG](rmsprop.PNG) 
+
+Le meilleur score obtenu est de 86%. Ce qui va changer le plus c'est la réussite de classement de la classe 1. Et ce même en augmentant la taille du jeu de donné (testé en multipliant par 5) ou en changeant d'optimizer.
